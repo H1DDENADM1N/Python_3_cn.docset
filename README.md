@@ -1,6 +1,6 @@
-# Python3.12.4-docsets
+# Python3.14.0-docsets
 
-This is a Python 3.12.4 ZH-CN Version docset for Dash and Zeal.
+This is a Python 3.14.0 ZH-CN Version docset for Dash and Zeal.
 
 ## Download from Releases
 
@@ -8,7 +8,7 @@ Unzip the `Python_3_cn.docset.7z` file to `~/Library/Application Support/Zeal/Ze
 
 ## Build your own
 
-1. Download the `HTML` Python 3.12.4 documentation from https://docs.python.org/zh-cn/3/download.html and extract it to `doc` folder.
+1. Download the `HTML` Python 3.14.0 documentation from https://docs.python.org/zh-cn/3/download.html and extract it to `doc` folder.
 
 2. Create `venv` and install `doc2dash`. 
     ```powershell

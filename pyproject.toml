@@ -1,6 +1,6 @@
 [project]
-name = "doc2dash"
-version = "0.1.0"
+name = "Python_3_cn.docset"
+version = "0.1.1"
 description = "Default template for PDM package"
 authors = [
     {name = "H1DDENADM1N", email = "65646535+H1DDENADM1N@users.noreply.github.com"},
@@ -8,7 +8,7 @@ authors = [
 dependencies = [
     "doc2dash>=3.1.0",
 ]
-requires-python = "==3.12.*"
+requires-python = "==3.13.*"
 readme = "README.md"
 license = {text = "MIT"}
 
